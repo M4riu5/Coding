@@ -1,0 +1,48 @@
+button {
+  border: none;
+  padding: 5px 25px 5px 25px;
+  color: white;
+  border-radius: 10px;
+  background-color: red;
+}
+header {
+  background-color: black;
+}
+header h2 {
+  color: white;
+  margin-bottom: 10px;
+}
+.navmenu {
+  background-color: rgb(232, 196, 49);
+  text-align: right;
+  padding: 15px 20px 15px 0;
+  color: white;
+}
+.navmenu a {
+  margin: 10px;
+}
+.header {
+  max-width: 1200px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+
+.limg {
+  text-align: center;
+  padding-top: 40px;
+}
+.btn {
+  text-align: center;
+}
+table {
+  border-collapse: collapse;
+  color: white;
+  width: 100%;
+  border: 1px solid red;
+}
+th {
+  border: 1px solid red;
+}
+td {
+  border: 1px solid red;
+}
