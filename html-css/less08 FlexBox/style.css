@@ -1,0 +1,23 @@
+header {
+  background-color: rgb(141, 181, 38);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+header img {
+  height: 100px;
+}
+header a {
+  padding: 20px;
+}
+section {
+  display: flex;
+}
+section img {
+  height: 250px;
+}
+section button {
+  background-color: rgb(150, 213, 55);
+  border: none;
+  padding: 10px 20px 10px 20px;
+}
